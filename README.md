@@ -2,6 +2,7 @@
  This is our practice repo for the midterm. 
 
 
+
 TODO: Write a project description
 
 ## Installation
@@ -31,3 +32,4 @@ TODO: Annie Foley and Zeran Lu
 ## License
 
 TODO: MIT License
+
