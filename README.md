@@ -1,28 +1,33 @@
 # Practice_Repo_MMED-1054_Midterm 
  This is our practice repo for the midterm. 
 
-#From A to Z Team#
 
-Installation
-Annie created the repo and created folder structure. Zeran cloned the repo. Both team members merged their branches containing their arguement to the main branch. We purposefully created a merge conflict and resolved it. 
+TODO: Write a project description
 
-Usage
-To practice dealing with merch conflicts
+## Installation
 
-Contributing
+TODO: Annie created the repo and folder structure. Zeran cloned the repo. We added our arguments to our branches and merged to the main branch. We purposefully created a merge conflict and resolved it as well. 
 
-1. Created the repo
-2. Created branches (dev and des)
-3. Added content
-4. Created a merge conflict 
-5. Resolved the merge conflict
-6. Completed the assignment
+## Usage
 
-History
-This is our midterm assignment. 
+TODO: For school purposes
 
-Credits
-Created by Foley. A, and Lu. Z.
+## Contributing
 
-License
-MIT License
+1. Fork it!
+2. Create your feature branch: `git checkout -b my-new-feature`
+3. Commit your changes: `git commit -am 'Add some feature'`
+4. Push to the branch: `git push origin my-new-feature`
+5. Submit a pull request :D
+
+## History
+
+TODO: This is our midterm. 
+
+## Credits
+
+TODO: Annie Foley and Zeran Lu
+
+## License
+
+TODO: MIT License
